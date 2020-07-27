@@ -13,3 +13,15 @@ https://jn-capstone2020.github.io/TeamA-FriendPage/
   - Software developers and security engineers will give feedback on Figma through comments
 - 7/31-8/1: UX Designers iterate based on feedback
 - 8/1-8/2: Everyone takes exit survey to rate the experience with various tools and processes
+
+  ## Team A:
+- UX Designers
+  - Darryl
+  - Michael
+- Software Devleopers
+  - Cole
+  - Eduardo
+- Security Engineers
+  - Griffin
+  - Tucker
+  - Aditya
