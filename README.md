@@ -14,13 +14,13 @@ https://jn-capstone2020.github.io/TeamA-FriendPage/
 - 7/31-8/1: UX Designers iterate based on feedback
 - 8/1-8/2: Everyone takes exit survey to rate the experience with various tools and processes
 
-  ## Team A:
+  ## Team C:
 - UX Designers
-  - Darryl
-  - Michael
+  - Soham
+  - Vivian
 - Software Devleopers
-  - Cole
-  - Eduardo
+  - Adrian
+  - Michael
 - Security Engineers
   - Griffin
   - Tucker
