@@ -15,7 +15,7 @@ https://jn-capstone2020.github.io/TeamC-FriendPage/
 
   ## Team C:
 - UX Designers
-  - Soham
+  - Nghi
   - Vivian
 - Software Devleopers
   - Adrian
